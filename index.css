@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    border-radius: 15px;
+    font-family: "Roboto", sans-serif;
+}
+
+.block{
+width: 380px;
+height: 454px;
+background-color:#FFD100;
+border-radius: 10px;
+margin-left: 100px;
+}
+
+.b-1{
+width: 350px;
+height: 340px;
+background-color: #FFD100;
+margin: auto;
+margin-top: 10px;
+}
+.b-2{
+    width: 350px;
+    height: 100px;
+    background-color:#FFD100 ;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    }
+
+    .f-1{
+        width: 100px;
+        height: 100px;
+        background-color:#000000 ;
+
+    }
+
+    .f-2{
+        width: 200px;
+        height: 100px;
+        background-color:#FFD100;
+        margin-left: 50px;
+        font-size: 40px;
+        text-align: center;
+        color: #941B0C;
+        font-weight: 700;
+    }
+
+    .v-1{
+        width: 330px;
+        height: 230px;
+        background-color: #FFD100;
+        margin: auto;
+    }
+
+    .v-2{
+        width: 330px;
+        height: 100px;
+        background-color:#FFD100;
+        margin: auto;
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 25px;
+    }
+    .do{
+        font-size: 17px;
+        margin-left: 100px;
+       color: darkgray;
+
+    }
+
+    .ipsum{
+        width: 100px;
+        height: 100px;
+        background-color:#7fffd400 ;
+        position: absolute;
+        left: 67px;
+    }
+
+    .ipsum > img{
+        display: block;
+        width: 100%;
+    }
+
+    .p-1{
+        font-size: 15px;
+        color: darkgrey;
+    }
+    .f-1{
+        font-size: 50px;
+        padding: 10px;
+        color: #fff;
+    }
+
+    .v-1 > img{
+        display: block;
+        width: 100%;
+    }
